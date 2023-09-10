@@ -1,4 +1,4 @@
-rootProject.name = "name"
+rootProject.name = "Коллекции для параллельной работы"
 
 
 pluginManagement {
